@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Dragoneles
-- 👀 I’m interested in developing games and tools using C#/Unity.
-- 🌱 I’m currently learning how to use IMGUI to extend the Unity editor.
+Hello, I’m Joseph
+I develop games and tools in Unity/C#
 
 <!---
 Dragoneles/Dragoneles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
