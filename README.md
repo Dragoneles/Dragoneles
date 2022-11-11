@@ -1,8 +1,4 @@
-Hello, I’m Joseph Crump
-
-I'm a technical game designer
-
-I develop games and tools in Unity/C#
+![alt text](logo.png)
 
 <!---
 Dragoneles/Dragoneles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
